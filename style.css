@@ -1,0 +1,142 @@
+body {
+    background-image: url("./pexels-3.jpg");
+    background-size: cover;
+   border: 8px groove rgb(136, 219, 11);
+   /* height: 1000px; */
+   padding: 0;;
+   margin: 0;
+}
+.box-a {
+    position: relative;
+
+}
+.box-a > div{
+    border: 4px solid red;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}
+.box1{
+    width: 350px;
+    height: 70px;
+    position: absolute;
+    left: 10px;
+    top: 15px;
+    font-style: italic;
+    font-size: x-large;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.box2{
+    width: 450px;
+    /* height: 120px; */
+    position: absolute;
+    left: 280px;
+    top: 18px;
+    font-style: italic;
+    font-size: x-large;
+    padding-top: 5px;
+    padding-bottom: 10px; 
+    text-align: center;
+}
+.box3{
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-style: italic;
+    font-size: large;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.circle{
+    height: 400px;
+    width: 400px;
+    border: 3px green solid;
+    border-radius: 50%;
+    margin-top: 350px;
+    margin-left: 120px;
+    background-color: deepskyblue;
+
+}
+.box-b {
+    margin-left: 0px;
+    margin-top: 100px;
+    text-align: center;
+    font-style: italic;
+   
+}
+.box-c{
+    border: 5px dashed red;
+    width: 400px;
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 700px;
+    margin-top: -580px;
+}
+.head{
+    color: red;
+    text-align: center;
+}
+h1{
+    border: 4px solid red;
+    background-color: black;
+    color: white;
+    width: 350px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 30px;
+    margin-left: 520px;
+    font-style: italic;
+}
+.cards{
+    width: 280px;
+    height: 250px;
+    border: 4px solid green;
+    background-color: aqua;
+}
+.card1{
+    margin-left: 90px;
+    border-radius: 30px;
+    text-align: center;
+    color: blue;
+}
+.card2{
+    margin-left: 500px;
+    margin-top:-260px;
+    border-radius: 30px;
+    text-align: center;
+    color: blue;
+}
+.card3{
+    border-radius: 30px;
+    margin-top:-260px;
+    margin-left: 920px;
+    text-align: center;
+    color: blue;
+}
+.card4{
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-left: 90px;
+    text-align: center;
+    color: blue;
+}
+.card5{
+    border-radius: 30px;
+    margin-top:-250px;
+    margin-left: 500px;
+    text-align: center;
+    color: blue;
+}
+.card6{
+    border-radius: 30px;
+    margin-top:-260px;
+    margin-left: 920px;
+    text-align: center;
+    color: blue;
+}
